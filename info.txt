@@ -1,3 +1,7 @@
-Họ và tên: Duong Manh Khuong
+Họ và tên: Dương Mạnh Khương
 Sở thích: xem anime
+<<<<<<< HEAD
 Kỹ năng: chơi cờ 
+=======
+Kỹ năng: chơi_game
+>>>>>>> origin/main
